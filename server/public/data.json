@@ -1,0 +1,17 @@
+{
+    "name": "Nama Kamu",
+    "bio": "Saya adalah seorang web developer yang suka membangun aplikasi fullstack.",
+    "projects": [
+      {
+        "title": "Website Portofolio",
+        "description": "Website pribadi untuk menampilkan proyek dan informasi kontak.",
+        "url": "https://contoh-link-proyek.com"
+      },
+      {
+        "title": "Aplikasi Todo List",
+        "description": "Aplikasi sederhana untuk mencatat tugas harian.",
+        "url": "https://todo-app.com"
+      }
+    ]
+  }
+  
